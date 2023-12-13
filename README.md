@@ -1,4 +1,1 @@
 # oy-plugin-wp
-
-
-[*] josss
